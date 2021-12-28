@@ -2,7 +2,7 @@
 ### 𝙏𝙃𝙄𝙎 𝙄𝙎 •𝘼𝙎𝙏𝙍𝙊 𝙈𝘼𝙉𝘼𝙂𝙀𝙍•
 <p align="center"><h1 align="center"><b> ƛsτʀ๏ Manager🇮🇳</b></h1></p>
 <p align="center">
-   <a href="https://t.me/AstroManager_RoBoT">
+   <a href="https://t.me/Astro_UserBot">
       <img src="resources/red.jpg" border="1px" alt="astro">
       </a>
       <br>
